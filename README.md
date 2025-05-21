@@ -1,11 +1,10 @@
 <h1 align="center">🌸 Hola, soy Valeria Ruiz! 🌸</h1>
 
 <p align="center">
-<img 
-  src="https://avatars.githubusercontent.com/u/12345678?v=4&s=200" 
-  alt="Valeria Ruiz Avatar" 
-  width="120" 
-  style="border-radius:50%;"/>
+  <img 
+    src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" 
+    alt="Animación divertida" 
+    width="200"/>
 </p>
 
 <p align="center">💖 Front-end Developer & UX/UI Lover 💖</p>
