@@ -11,7 +11,7 @@
 
 ---
 
-- 👋 Hi, I’m **@valruizb05** (Valeria Ruiz)  
+- 👋 Hi, I’m Valeria Ruiz
 - 👀 I’m interested in **Front-end Development**, **UX/UI Design**, **Back-end**
 - 🌱 I’m currently learning **React.js**, **Java**, **Tailwind CSS** & profundizando en **UX/UI**  
 - 💞️ I’m looking to collaborate on proyectos con **Laravel + Vue.js**, plataformas educativas interactivas & automatización  
